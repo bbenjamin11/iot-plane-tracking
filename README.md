@@ -14,7 +14,9 @@
 
 ## Componenent
 Raspberry pi 0w or 3
+
 Accelerometre MPU-6050
+
 SD card 16 GB
 
 ## Basic documentation
