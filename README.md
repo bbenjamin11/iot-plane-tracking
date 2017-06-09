@@ -1,7 +1,7 @@
 # iot-plane-tracking
 ## Get started 
-1. Download the raspberry img
-2. Download Etcher (Linux,Mac,Windows)
+1. Download the raspberry img : https://drive.google.com/file/d/0B_29t7bAFJaCUnZTYVBNcEE5UlU/view?usp=sharing
+2. Download Etcher (Linux,Mac,Windows) : https://etcher.io/
 3. Flash the img
 4. Turn on the Raspberry
 5. Config the wifi
